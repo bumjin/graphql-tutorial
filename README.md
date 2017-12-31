@@ -26,3 +26,5 @@ node server.js generate error! so install babel
 graphql-tutorial $ npm install --save-dev babel-cli babel-preset-env
 
 graphql-tutorial $ npm run build
+
+npm install --save babel-watch
