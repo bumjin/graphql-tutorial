@@ -32,3 +32,5 @@ npm install --save babel-watch
 npm install --save graphql apollo-server-express
 
 npm install --save body-parser
+
+npm install --save graphql-tools
